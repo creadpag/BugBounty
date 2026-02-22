@@ -53,8 +53,6 @@ Mi enfoque está en:
 
 ## 📌 Proyectos destacados
 
-> *(Reemplazá los nombres y descripciones con tus repos reales)*
-
 ### 🚀 Proyectos principales
 - **[Nombre-del-proyecto-1](https://github.com/creadpag)** — Descripción corta del proyecto y para qué sirve.
 - **[Nombre-del-proyecto-2](https://github.com/creadpag)** — Herramienta / script / recurso práctico.
@@ -99,5 +97,6 @@ Seguir publicando **herramientas útiles, contenido gratuito y recursos de valor
 ## 🙌 Gracias por visitar mi perfil
 
 Si te gusta lo que hago en **CREADPAG**, no olvides dejar una ⭐ en los repositorios que te resulten útiles.
+
 
 **¡Seguimos construyendo! 🚀**

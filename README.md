@@ -53,11 +53,6 @@ Mi enfoque está en:
 
 ## 📌 Proyectos destacados
 
-### 🚀 Proyectos principales
-- **[Nombre-del-proyecto-1](https://github.com/creadpag)** — Descripción corta del proyecto y para qué sirve.
-- **[Nombre-del-proyecto-2](https://github.com/creadpag)** — Herramienta / script / recurso práctico.
-- **[Nombre-del-proyecto-3](https://github.com/creadpag)** — Proyecto orientado a desarrollo web / seguridad / automatización.
-
 ### 📚 Recursos y guías
 - **Guías prácticas** de aprendizaje técnico
 - **Recursos de Bug Bounty / Ciberseguridad**
@@ -100,3 +95,4 @@ Si te gusta lo que hago en **CREADPAG**, no olvides dejar una ⭐ en los reposit
 
 
 **¡Seguimos construyendo! 🚀**
+
